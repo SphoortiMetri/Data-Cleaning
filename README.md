@@ -10,7 +10,7 @@ In this project,
 
 ### Dataset 
 
-Oral Insulin Phase II Clinical Trial Data 
+The dataset consists of Oral Insulin Phase II Clinical Trial information
 
 The dataset is in different sources: 
 
