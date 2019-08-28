@@ -12,7 +12,15 @@ In this project,
 
 Oral Insulin Phase II Clinical Trial Data 
 
+The dataset is in different sources: 
+
+- adverse_reactions.csv 
+- patients.csv
+- treatments.csv 
+- treatments_cut.csv
+
 DISCLAIMER: This Data Isn't "Real" 
+
 
 
 
